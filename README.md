@@ -1,4 +1,4 @@
-# ignite_chapter1_react_native_desafio_one
+# ignite_chapter1_react_native_desafio_one_and_two
 
-ignite_chapter1_react_native_desafio_one
+ignite_chapter1_react_native_desafio_one_and_two
 
